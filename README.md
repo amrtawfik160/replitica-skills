@@ -16,7 +16,7 @@ Then connect your account once:
 2. Add the Replitica MCP server to your agent with that token. For Claude Code:
    ```bash
    claude mcp add --transport http --scope user replitica \
-     https://zyjpkaqbwlssjckzyint.supabase.co/functions/v1/mcp \
+     https://ncvhxplskpmjintktwqj.supabase.co/functions/v1/mcp \
      --header "Authorization: Bearer replitica_pat_…"
    ```
    For other agents (Cursor, Hermes, OpenClaw, …), paste the JSON snippet shown on
